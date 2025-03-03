@@ -65,7 +65,7 @@ public class Main {
                 taskList.remove(removeindex);
           
                   if (in2 <= taskList.size()) {
-                      break;  // Valid input, exit loop
+                      break; 
                   } else {
                       System.out.println("Invalid input. Please enter select the task by index");
                   }
